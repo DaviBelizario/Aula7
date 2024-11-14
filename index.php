@@ -18,3 +18,9 @@
     <script type="text/javascript" src="js/menu.js"></script>
 </body>
 </html>
+<<<<<<< HEAD
+=======
+
+Sucessfull installed
+get installed
+>>>>>>> 96153440c79c5b81dc26b478e035c44c3d94ef48
